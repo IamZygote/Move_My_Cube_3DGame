@@ -1,0 +1,36 @@
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.exe.config
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.exe
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.pdb
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csprojAssemblyReference.cache
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.Properties.Resources.resources
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.GenerateResource.cache
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.CoreCompileInputs.cache
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.exe
+C:\Users\meko1\source\repos\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.pdb
+E:\Projects\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.exe.config
+E:\Projects\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.exe
+E:\Projects\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.pdb
+E:\Projects\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csprojAssemblyReference.cache
+E:\Projects\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.Properties.Resources.resources
+E:\Projects\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.GenerateResource.cache
+E:\Projects\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.CoreCompileInputs.cache
+E:\Projects\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.exe
+E:\Projects\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.pdb
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.exe.config
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.exe
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\bin\Debug\ProjectGraphics.pdb
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csprojAssemblyReference.cache
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.Properties.Resources.resources
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.GenerateResource.cache
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.CoreCompileInputs.cache
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.exe
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphics\ProjectGraphics\obj\Debug\ProjectGraphics.pdb
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\bin\Debug\ProjectGraphics.exe.config
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\bin\Debug\ProjectGraphics.exe
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\bin\Debug\ProjectGraphics.pdb
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\obj\Debug\ProjectGraphics.csprojAssemblyReference.cache
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\obj\Debug\ProjectGraphics.Properties.Resources.resources
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.GenerateResource.cache
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\obj\Debug\ProjectGraphics.csproj.CoreCompileInputs.cache
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\obj\Debug\ProjectGraphics.exe
+E:\Work\Work Semester 7\3D Visualisation\Project\ProjectGraphicsNoCam\ProjectGraphics\obj\Debug\ProjectGraphics.pdb
